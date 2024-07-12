@@ -2,3 +2,5 @@
 pyidml
 node_modules
 data
+.vscode
+**/*.js
